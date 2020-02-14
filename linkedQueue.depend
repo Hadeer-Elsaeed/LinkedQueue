@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576588183 source:d:\open source\data structur\lab2\linkedqueue\main.cpp
+	<iostream>
+	<string.h>
+
